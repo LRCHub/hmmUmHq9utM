@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "飾りじゃないのよ涙は",
+  "base_artist": "Masayuki Suzuki",
+  "createdAt": "2025-12-05T06:29:23.634298Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "飾りじゃないのよ涙は - アルバム・ヴァージョン",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/01_飾りじゃないのよ涙は_-_アルバム・ヴァージョン_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "飾りじゃないのよ涙は",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/02_飾りじゃないのよ涙は_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "飾りじゃないのよ涙は",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/03_飾りじゃないのよ涙は_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "飾りじゃないのよ涙は <30th anniversary mix>",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/04_飾りじゃないのよ涙は__30th_anniversary_mix_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "飾りじゃないのよ涙は - 30th anniversary mix",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/05_飾りじゃないのよ涙は_-_30th_anniversary_mix_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "飾りじゃないのよ涙は",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/06_飾りじゃないのよ涙は_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "飾りじゃないのよ涙は",
+      "artist": "PENICILLIN",
+      "has_synced": false,
+      "path": "select/07_飾りじゃないのよ涙は_PENICILLIN.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "飾りじゃないのよ涙は (シングル・ヴァージョン)",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/08_飾りじゃないのよ涙は_(シングル・ヴァージョン)_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "飾りじゃないのよ涙は (シングル・ヴァージョン) [オリジナル・カラオケ]",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/09_飾りじゃないのよ涙は_(シングル・ヴァージョン)_[オリジナル・カラオケ]_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "飾りじゃないのよ涙は",
+      "artist": "森恵",
+      "has_synced": false,
+      "path": "select/10_飾りじゃないのよ涙は_森恵.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "飾りじゃないのよ涙は <30th anniversary mix>",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/11_飾りじゃないのよ涙は__30th_anniversary_mix_中森明菜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "飾りじゃないのよ涙は",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_01_飾りじゃないのよ涙は_鈴木_雅之.txt"
+    }
+  ]
+}
